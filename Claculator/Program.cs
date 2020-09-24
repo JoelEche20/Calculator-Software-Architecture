@@ -15,20 +15,29 @@ namespace Claculator
                     x = int.Parse(Console.ReadLine()); Console.WriteLine("second number: "); y = int.Parse(Console.ReadLine());}
                 else
                 {Console.WriteLine("enter number: "); y = int.Parse(Console.ReadLine());}
+             
                 switch (o)
                 {
+                    //this line of code shows the result of a sum
                     case "+":
                         Console.WriteLine("result:");w = x + y;Console.WriteLine("{0}",w);
                         break;
 
+                    //this line of code shows the result of a subtraction
                     case "-":
                         Console.WriteLine("result:");w = x - y;Console.WriteLine("{0}",w);
                         break;
+                    //this line of code shows the result of a multiply
                     case "*":
                         Console.WriteLine("result:");w = x * y;Console.WriteLine("{0}",w);
                         break;
+                    //this line of code shows the result of a division
                     case "/":
                         Console.WriteLine("result:");w = x / y;Console.WriteLine("{0}",w);
+                        break;
+                    //this line of code shows the result of a module
+                    case "%":
+                        Console.WriteLine("result:"); w = x % y; Console.WriteLine("{0}", w);
                         break;
 
                 }
