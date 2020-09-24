@@ -11,3 +11,16 @@ C:\Users\Joel\Desktop\ArquiSoft\Claculator\Claculator\obj\Debug\netcoreapp3.1\Cl
 C:\Users\Joel\Desktop\ArquiSoft\Claculator\Claculator\obj\Debug\netcoreapp3.1\Claculator.dll
 C:\Users\Joel\Desktop\ArquiSoft\Claculator\Claculator\obj\Debug\netcoreapp3.1\Claculator.pdb
 C:\Users\Joel\Desktop\ArquiSoft\Claculator\Claculator\obj\Debug\netcoreapp3.1\Claculator.genruntimeconfig.cache
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.csprojAssemblyReference.cache
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.csproj.CoreCompileInputs.cache
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.AssemblyInfoInputs.cache
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.AssemblyInfo.cs
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.dll
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.pdb
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\bin\Debug\netcoreapp3.1\Claculator.exe
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\bin\Debug\netcoreapp3.1\Claculator.deps.json
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\bin\Debug\netcoreapp3.1\Claculator.runtimeconfig.json
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\bin\Debug\netcoreapp3.1\Claculator.runtimeconfig.dev.json
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\bin\Debug\netcoreapp3.1\Claculator.dll
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\bin\Debug\netcoreapp3.1\Claculator.pdb
+D:\Universidad\semestre10\Arqui\Calculator-Software-Architecture\Claculator\obj\Debug\netcoreapp3.1\Claculator.genruntimeconfig.cache
